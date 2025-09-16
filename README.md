@@ -26,8 +26,8 @@ This project demonstrates clean UI design, responsive layouts, and fundamental w
 
 ## 📷 Gallery  
 
-| TinyDog Home | TinyDog Page 2 |
+| TinyDog Page | TinyDog Page  |
 |--------------|----------------|
-| ![TinyDog Home](td1.png) | ![TinyDog Page 2](td2.png) |
+| ![TinyDog](td1.png) | ![TinyDog](td2.png) |
 
 ---
